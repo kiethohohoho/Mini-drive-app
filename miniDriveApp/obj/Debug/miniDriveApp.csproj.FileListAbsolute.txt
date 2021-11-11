@@ -1,0 +1,141 @@
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.AssemblyReference.cache
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Form1.resources
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Properties.Resources.resources
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.GenerateResource.cache
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe.config
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.pdb
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.dll
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.pdb
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.xml
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.pdb
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.xml
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.pdb
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.xml
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.xml
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.xml
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CopyComplete
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.exe
+D:\Lập trình mạng\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe.config
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.PlatformServices.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.AssemblyReference.cache
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Form1.resources
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Properties.Resources.resources
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.GenerateResource.cache
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CopyComplete
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.exe
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.dll
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.pdb
+D:\LapTrinhMang\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe.config
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Form1.resources
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Properties.Resources.resources
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.GenerateResource.cache
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CoreCompileInputs.cache
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CopyComplete
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.exe
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.pdb
+C:\Users\xuanq\Downloads\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csprojAssemblyReference.cache
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe.config
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.exe
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\miniDriveApp.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Form1.resources
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.Properties.Resources.resources
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.csproj.CopyComplete
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.exe
+C:\Users\FPTSHOP\Desktop\miniDriveApp\miniDriveApp\obj\Debug\miniDriveApp.pdb
